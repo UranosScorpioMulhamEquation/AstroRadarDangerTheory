@@ -195,7 +195,7 @@ def is_planet_ruler_or_near_asc(planet_name: str, transit_dt: datetime, natal_as
 def libephemeris():
     st.set_page_config(page_title="نظرية استرو رادار-توقيت الخطر ", layout="wide")
     st.title("نظام نظرية استرو رادار (توقع سنوات الخطر الجسيم)")
-    st.caption("تطبيق معايير النظرية الكاملة: نظام بلاسيديوس، نطاق 3 درجات قوسية - الدقة للحدث +/- 6 شهور")
+    st.caption("تطبيق معايير النظرية الكاملة للفلكي و المبرمج الدكتور ملهم أحمد : نظام بلاسيديوس، نطاق 3 درجات قوسية - الدقة للحدث +/- 6 شهور")
     st.markdown("---")
 
     # التقاط البلدان والمدن
